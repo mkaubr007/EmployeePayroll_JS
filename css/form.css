@@ -102,3 +102,7 @@ min-width: 120px;
     border-radius: 50%;
     margin-left: 12px;
 }
+label {
+    padding: 12px 12px 12px 0;
+    display: inline-block;
+}
