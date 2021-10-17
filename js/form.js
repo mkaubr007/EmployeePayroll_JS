@@ -1,7 +1,5 @@
 window.addEventListener('DOMContentLoaded', (event) => {
     salaryOutput();
-    validateName();
-    validateDate();
 });
 
 
